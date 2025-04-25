@@ -1,14 +1,15 @@
 If you're encountering errors related to missing Python module imports:
 
 
-Import "pandas" could not be resolved from source
-Import "networkx" could not be resolved from source
-Import "ucimlrepo" could not be resolved
-Import "sklearn.model_selection" could not be resolved from source
-Import "sklearn.naive_bayes" could not be resolved from source
-Import "sklearn.preprocessing" could not be resolved from source
-Import "sklearn.metrics" could not be resolved from source
-This usually happens when the required packages are not installed in your Python environment. To resolve these errors, follow the steps below:
+- Import "pandas" could not be resolved from source
+- Import "networkx" could not be resolved from source
+- Import "ucimlrepo" could not be resolved
+- Import "sklearn.model_selection" could not be resolved from source
+- Import "sklearn.naive_bayes" could not be resolved from source
+- Import "sklearn.preprocessing" could not be resolved from source
+- Import "sklearn.metrics" could not be resolved from source
+
+To resolve these errors, follow the steps below:
 
 
 Step 1: Install Missing Packages
